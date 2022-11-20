@@ -1,3 +1,7 @@
-### Hello world, I am Reina 👋
+##### Hello world, I am Reina 👋
 
-⚡ Fun fact: Loves to watch American comedy shows such as the Big Bang Theory, Young Sheldon and Fresh Off the Boat!
+I am an analyst from Singapore. 
+
+📖 Currently learning about MATLAB
+🖥️ Very interested in computer vision 
+⚡ Prioritises work-life balance
